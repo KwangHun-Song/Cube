@@ -13,6 +13,6 @@
 
 ## 게임 플레이 영상
 
-![Cube 게임 플레이 영상](https://github.com/KwangHun-Song/Cube/assets/36505226/2b45629d-dbaa-46f9-b9a8-88c5a724fa5d)
+![Cube 게임 플레이 영상](https://github.com/KwangHun-Song/Cube/assets/36505226/443c517a-cb42-4000-ae92-a5012f2f88ed)(https://github.com/KwangHun-Song/Cube/assets/36505226/2b45629d-dbaa-46f9-b9a8-88c5a724fa5d)
 
 즐거운 게임 플레이를 바랍니다!
