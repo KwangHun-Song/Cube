@@ -14,4 +14,5 @@
 ## 게임 플레이 영상
 
 ![playsample](https://github.com/KwangHun-Song/Cube/blob/main/program/Recordings/playSample.gif)
+
 즐거운 게임 플레이를 바랍니다!
